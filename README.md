@@ -5,3 +5,7 @@ This application allows users to check out books for a certain period of time fr
 #### Setup
 
 The program uses Java Database Connectivity to connect to a MySQL database containing the book information. The book data is in the `books.csv` file in the `resources` folder which can be imported into a MySQL server for hosting the database. Once imported, the Java program can connect to the server to retrieve the book data.
+
+#### Application
+
+<img width="700" alt="library management system" src="https://github.com/mclaughlinryan/Library-Management-System/assets/150348966/0521e767-1ff1-4167-9746-58c8dc243193">
