@@ -13,7 +13,6 @@ Application interface:
 <img width="700" alt="library management system" src="https://github.com/mclaughlinryan/Library-Management-System/assets/150348966/0521e767-1ff1-4167-9746-58c8dc243193">
 
 &nbsp;
-
 Administrator view:
 
 <img width="700" alt="library management system 3" src="https://github.com/mclaughlinryan/Library-Management-System/assets/150348966/766a4725-9301-49cc-b27b-a49f4d68c969">
