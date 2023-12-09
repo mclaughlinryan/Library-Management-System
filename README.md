@@ -8,4 +8,5 @@ The program uses Java Database Connectivity to connect to a MySQL database conta
 
 #### Application
 
+Application interface:
 <img width="700" alt="library management system" src="https://github.com/mclaughlinryan/Library-Management-System/assets/150348966/0521e767-1ff1-4167-9746-58c8dc243193">
