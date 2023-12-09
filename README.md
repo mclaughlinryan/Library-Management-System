@@ -22,4 +22,4 @@ Administrator view:
 
 For the admin login, the username is "admin" and the password is "admin".
 
-The book checkout date and time of checkout can be edited for each book as an administrative user.
+The checkout date and time of checkout can be edited for each book as an administrative user.
