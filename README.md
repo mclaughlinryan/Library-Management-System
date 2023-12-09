@@ -11,3 +11,7 @@ The program uses Java Database Connectivity to connect to a MySQL database conta
 Application interface:
 
 <img width="700" alt="library management system" src="https://github.com/mclaughlinryan/Library-Management-System/assets/150348966/0521e767-1ff1-4167-9746-58c8dc243193">
+
+Book checkout:
+
+<img width="500" alt="library management system 4" src="https://github.com/mclaughlinryan/Library-Management-System/assets/150348966/c151da54-7d13-4aac-8868-8565244b756e">
