@@ -14,12 +14,12 @@ Application interface:
 
 &nbsp;
 
-Book checkout:
-
-<img width="500" alt="library management system 4" src="https://github.com/mclaughlinryan/Library-Management-System/assets/150348966/c151da54-7d13-4aac-8868-8565244b756e">
-
-&nbsp;
-
 Administrator view:
 
 <img width="700" alt="library management system 3" src="https://github.com/mclaughlinryan/Library-Management-System/assets/150348966/766a4725-9301-49cc-b27b-a49f4d68c969">
+
+Admin login:
+Username: admin
+Password: admin
+
+As an administrator, the book checkout date and time of checkout can be edited for each book.
